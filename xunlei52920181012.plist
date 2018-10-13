@@ -1,0 +1,79 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @zafirozof Sign out
+0
+4 6 jabizb/plist
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
+plist/xunlei5291012.plist
+8b080dc  a day ago
+@jabizb jabizb Add files via upload
+     
+50 lines (49 sloc)  1.28 KB
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://hot.haima.me/ee/201810/1193/com.xunlei.ithunder_5.29.1.2316_1_20181011170004_elat2s.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://jabizb.cn/icon//smallImage.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xunlei.iosthunder</string>
+				<key>bundle-version</key>
+				<string>5.31.1.4204</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>迅雷</string>
+				<key>title</key>
+				<string>迅雷beta-长期更新公众号:精深网络</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
